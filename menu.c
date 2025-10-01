@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include<stdlib.h>
+#include<stdio.h>
 int main(){
 
  int opcao;
@@ -29,5 +29,4 @@ default:
 
 }
 return 0; 
-
 }
