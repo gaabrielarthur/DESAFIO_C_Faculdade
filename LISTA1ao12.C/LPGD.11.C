@@ -1,4 +1,8 @@
 #include <stdio.h>
+/*
+. Crie um programa que receba um vetor de números reais com 100 elementos. Escreva uma
+função recursiva que inverta a ordem dos elementos presentes no vetor.
+*/
 
 void inverter(float v[], int inicio, int fim) {
     if (inicio >= fim)
